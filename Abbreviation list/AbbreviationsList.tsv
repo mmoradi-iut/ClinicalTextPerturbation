@@ -1,0 +1,745 @@
+ABG	arterial blood gas
+ACE	angiotensin-converting enzyme
+ACTH	adrenocorticotropic hormone
+AFVSS	Afebrile vital signs stable
+ADH	antidiuretic hormone
+AED	automated external defibrillator
+AIDS	acquired immunodeficiency syndrome
+ALP	alkaline phosphatase
+ALT	alanine aminotransferase
+ASA	acetylsalicylic acid
+AST	aspartate aminotransferase
+ATP	adenosine triphosphate
+BCG	bacille Calmette-Guérin
+bid	2 times a day
+bd	2 times a day
+BIBA	brought in by ambulance
+BIBP	brought in by police
+BIBPD	brought in by police
+BLS	basic life support
+BMR	basal metabolic rate
+BP	blood pressure
+BPAD	bipolar affective disorder
+BPD	borderline personality disorder
+BSA	body surface area
+BR	bedside rounds
+BUN	blood urea nitrogen
+C	Celsius
+Ca	calcium
+CAMP	cyclic adenosine monophosphate
+cAMP	cyclic adenosine monophosphate
+CBC	complete blood count
+CDC	Centers for Disease Control and Prevention
+cGy	centigray
+Ci	curie
+CK	creatine kinase
+Cl	chloride; chlorine
+cm	centimeter(s)
+cm	centimetre(s)
+CNS	central nervous system
+CO2	carbon dioxide
+COPD	chronic obstructive pulmonary disease
+CPK	creatine phosphokinase
+CPK-MB	creatine phosphokinase muscle bandisoenzyme
+CPR	cardiopulmonary resuscitation
+CSF	cerebrospinal fluid
+CT	computed tomography
+Cu	cubic
+D&C	dilation and curettage
+dL	deciliter(s)
+dL	decilitre(s)
+DNA	deoxyribonucleic acid
+DTP	diphtheria-tetanus-pertussis
+D/W	dextrose in water
+ECF	extracellular fluid
+ECG	electrocardiogram
+EEG	electroencephalogram
+EGD	esophagogastroduodenoscopy
+ENT	ear nose and throat
+ERCP	endoscopic retrograde cholangiopancreatography
+ESR	erythrocyte sedimentation rate
+F	Fahrenheit
+FDA	U.S. Food and Drug Administration
+Ft	foot
+Ft	feet
+FUO	fever of unknown origin
+G	gram(s)
+g	gram(s)
+GFR	glomerular filtration rate
+GI	gastrointestinal
+GVHD	Graft-versus-host disease
+G6PD	glucose-6-phosphate dehydrogenase
+GU	genitourinary
+Gy	gray
+H	hour(s)
+h	hour(s)
+hr	hour(s)
+Hb	hemoglobin
+HCl	hydrochloric acid
+HCl	hydrochloride
+HCO3	bicarbonate
+Hct	hematocrit
+Hg	mercury
+HIPAA	Health Insurance Portability and Accountability Act
+HIV	human immunodeficiency virus
+HLA	human leukocyte antigen
+HMG-CoA	hydroxymethyl glutaryl coenzyme A
+hs	at bedtime
+Hz	hertz
+ICF	intracellular fluid
+ICU	intensive care unit
+IgA	immunoglobin A
+IL	interleukin
+IM	intramuscular(ly)
+INR	international normalized ratio
+IPPB	intermittent positive pressure breathing
+IU	international unit
+IVU	intravenous urography
+K	potassium
+kcal	kilocalorie(s)
+kg	kilogram(s)
+L	liter(s)
+L	litre(s)
+lb	pound(s)
+LDH	lactic dehydrogenase
+LDLc	low-density lipoprotein cholesterol
+M	molar
+m	meter(s)
+m	metre(s)
+mane	in the morning
+mc	micro
+MCH	mean corpuscular hemoglobin
+MCHC	mean corpuscular hemoglobin concentration
+mCi	millicurie
+MCV	mean corpuscular volume
+mEq	Milliequivalent
+midi	midday
+Mg	magnesium
+mg	milligram(s)
+MI	myocardial infarction
+MIC	minimum inhibitory concentration
+min	minute
+mins	minutes
+mIU	milli-international unit
+mL	milliliter(s)
+mL	millilitre(s)
+ml	milliliter(s)
+mm	millimeter(s)
+mm	millimetre(s)
+mmol	millimole(s)
+mo	month
+mol	wt molecular weight
+mOsm	milliosmole(s)
+MRI	magnetic resonance imaging
+N	nitrogen
+Na	sodium
+NaCl	sodium chloride
+NAEON	no adverse events overnight
+ng	nanogram
+nm	nanometer
+nmol	nanomole
+nocte	at night
+Npo	nothing by mouth
+NSAID	nonsteroidal anti-inflammatory drug
+O2	oxygen
+OTC	over-the-counter
+oz	ounce(s)
+P	phosphorus
+P	pressure
+PAco2	alveolar carbon dioxide partial pressure
+Paco2	arterial carbon dioxide partial pressure
+PAo2	alveolar oxygen partial pressure
+Pao2	arterial oxygen partial pressure
+PAS	periodic acid-Schiff
+Pco2	carbon dioxide partial pressure
+PCR	polymerase chain reaction
+PET	positron emission tomography
+pg	picogram(s)
+pH	hydrogen ion concentration
+PMN	polymorphonuclear leukocyte
+po	orally
+Po2	oxygen partial pressure
+PPD	purified protein derivative
+ppm	parts per million
+prn	as needed
+PT	prothrombin time
+PTT	partial thromboplastin time
+q	every
+qid	4 times a day
+RA	rheumatoid arthritis
+RBC	red blood cell
+RNA	ribonucleic acid
+Sao2	arterial oxygen saturation
+SBE	subacute bacterial endocarditis
+sc	subcutaneous(ly)
+SI	International System of Units
+SIDS	sudden infant death syndrome
+SLE	systemic lupus erythematosus
+soln	solution
+sp	species
+spp	species
+sp gr	specific gravity
+sq	square
+SSRI	selective serotonin reuptake inhibitor
+STS	serologic test(s) for syphilis
+T&A	tonsillectomy and adenoidectomy
+TB	tuberculosis
+tds	3 times a day
+TIBC	total iron-binding capacity
+tid	3 times a day
+TPN	total parenteral nutrition
+URI	upper respiratory infection
+UTI	urinary tract infection
+WBC	white blood cell
+WHO	World Health Organization
+WR	ward round
+wt	weight
+μ	micro
+μ	micron
+μCi	microcurie
+μg	microgram(s)
+μL	microliter(s)
+μL	microlitre(s)
+μm	micrometer(s)
+μm	micrometre(s)
+μmol	micromole(s)
+μOsm	micro-osmole(s)
+mμ	millimicron(s)
+Ac	before meals
+ad lib	at will
+ad lib	as desired
+adm	admission
+adm	admitted
+ASAP	as soon as possible
+Bid	twice a day
+Bm	bowel movement
+BP	blood pressure
+BRP	bathroom privileges
+C	Centigrade
+C	Celsius
+Cap	capsule
+CC	chief complaint
+cc	cubic centimeter
+c/o	complains of
+C02	carbon dioxide
+CPR	cardiopulmonary resuscitation
+CXR	chest x-ray
+d/c	discontinue
+d/c	discharge
+ECG	electrocardiogram
+EKG	electrocardiogram
+EBL	estimated blood loss
+ER	emergency room
+F	Fahrenheit
+Fb	foreign body
+fx	fracture
+gtt	drop-liquid measurement
+H&P	history and physical
+HR	heart rate
+hr	hour
+hs	hour of sleep
+H2O	water
+i	1
+ii	2
+iii	3
+iv	4
+v	5
+I	1
+II	2
+III	3
+IV	4
+V	5
+I&O	intake and output
+IDDM	insulin dependent diabetes mellitus
+IV	intravenous
+IM	intramuscular
+Mg	milligram
+Ml	milliliter
+MVA	motor vehicle accident
+NPO	nothing by mouth
+NTG	nitroglycerin
+O2	oxygen
+OD	right eye
+OS	left eye
+OU	both eyes
+post-op	postoperative
+pre-op	preoperative
+po	by mouth
+pt	patient
+prn	as needed
+pc	after meals
+qd	every day
+qh	every hour
+qid	four times a day
+qod	every other day
+Rx	prescription
+Rx	treatment
+sc	subcutaneous
+s	without
+sx	symptoms
+s/s	signs and symptoms
+stat	immediately
+SOB	short of breath
+tab	tablet
+TPR	temperature, pulse, respiration
+vs	vital signs
+AA	amino acid
+ABG	arterial blood gas
+ADM	admission
+ALS	advanced life support
+AMA	against medical advice
+AMA	American Medical Association
+ASAP	as soon as possible
+A&W	alive and well
+C	centigrade
+C	celsius
+CC	cubic centimeter
+CC	chief complaint
+CC	critical care
+C/O	complains of
+C/O	care of
+CO2	carbon dioxide
+D/C	discontinue
+DNR	do not resuscitate
+DO	disorder
+DOA	dead on arrival or date of admission
+DOB	date of birth
+DOT	directly observed therapy
+DSM	Diagnostic and Statistical Manual of Mental Disorders
+EDC	estimated date of confinement
+EDD	estimated delivery date
+EGA	estimated gestational age
+ER	emergency room
+F	fahrenheit
+H&P	history and physical examination
+HPI	history of present illness
+H/O	history of
+HR	heart rate or hour
+HS	hour of sleep
+ICU	intensive care unit
+ID	infectious diseases
+IP	inpatient
+IQ	intelligence quotient
+IU	international units
+MCO	managed care organization
+MG	milligram
+MVA	motor vehicle accident
+ML	milliliter
+NKDA	no known drug allergies
+NTG	nitroglycerin
+OPD	outpatient department
+P	pulse
+Post-op	postoperative
+Pre-op	preoperative
+PA	patient
+PT	patient
+PCP	primary care physician
+PPE	personal protection equipment
+RBC	red blood cell
+RF	risk factor
+S	without
+SX	symptoms
+S/S	signs and symptoms
+STAT	immediately
+T	temperature
+TPR	temperature, pulse, respiration
+USOH	usual state of health
+VS	vital signs
+VSS	vital signs stable
+WB	whole blood
+WBC	white blood cell
+WNL	within normal limits
+ABX	antibiotics
+AC	before meals
+Ad lib	at will
+BID	twice a day
+CAP	capsule
+GTT	drop-liquid measurement
+i	1
+ii	2
+iii	3
+iv	4
+v	5
+MDD	maximum daily dose
+NPO	nothing by mouth
+OCP	oral contraceptive pill
+OPV	oral polio vaccine
+OTC	over the counter
+PC	after meals
+PCN	penicillin
+PNV	prenatal vitamins
+PO	by mouth
+PRN	as needed
+q2h	every 2 hours
+q3h	every 3 hours
+qam	every morning
+qd	once a day
+qh	once every hour
+qhs	at bedtime
+qod	every other day
+qpm	every evening
+RDI	recommended daily intake
+Rx	prescription
+SC	subcutaneous
+SQ	subcutaneous
+TAB	tablet
+TIW	three times a week
+AXR	abdominal x-ray
+BAC	blood alcohol content
+BC	birth control
+BE	barium enema
+BMT	bone marrow transplant
+Bx	biopsy
+BRP	bathroom privileges
+CXR	chest x-ray
+ECC	emergency cardiac care
+ECG or EKG	electrocardiogram
+ECMO	extracorporeal membrane oxygenation
+ECT	electroconvulsive therapy
+ECV	external cephalic version
+FB	foreign body
+FNA	fine needle aspiration
+FOBT	fecal occult blood testing
+GLT	glucose loading test
+GTT	glucose tolerance test
+H20	water
+I&D	incision and drainage
+I&O	intake and output
+IUPC	intrauterine pressure catheter
+In vitro	in the laboratory
+In vivo	in the body
+KUB	kidney, ureter, bladder
+OGTT	oral glucose tolerance test
+PAP	pulmonary artery pressure
+PAP	Papanicolaou test
+PEEP	positive end expiratory pressure
+PT	physical therapy
+T&C	type and cross
+TPA	tissue plasminogen activator
+TPA	total parenteral alimentation
+UA	urinalysis
+US	ultrasound
+XRT	external radiation therapy
+ADHD	attention deficit hyperactivity disorder
+AF	acid-fast
+AIDS	acquired immune deficiency syndrome
+ALS	amyotrophic lateral sclerosis
+A&O	alert and oriented
+AOB	alcohol on breath
+ARDS	adult respiratory distress syndrome
+ARF	acute renal failure
+ARF	acute rheumatic fever
+BAD	bipolar affective disorder
+BM	bowel movement
+CA	cancer
+CAB	carotid artery bruit
+CABG	coronary artery bypass graft
+CAD	coronary artery disease
+CBC	complete blood count
+CF	cystic fibrosis
+C/F	chills/fever
+CFT	complement fixation testing
+CHD	congenital heart disease
+CHF	congestive heart failure
+COLD	chronic obstructive lung disease
+COPD	chronic obstructive pulmonary disease
+CP	chest pain
+CP	cerebral palsy
+C/S	cesarean section
+CV	cardiovascular
+CVA	cerebral vascular accident
+DTR	deep tendon reflex
+DVT	deep venous thrombosis
+Dx	diagnosis
+EBL	estimated blood loss
+EBV	Epstein-Barr virus
+EC	eye contact
+ECASA	enteric coated acetylsalicylic acid
+EGC	early gastric cancer
+FAS	fetal alcohol syndrome
+FB	foreign body
+F/C	fever/chills
+FEF	forced expiratory flow
+FHR	fetal heart rate
+FM	fetal movement
+FRC	functional residual capacity
+FSE	fetal scalp electrode
+FSH	follicle stimulating hormone
+FT	full term
+FX	fracture
+GA	gestational age
+GH	growth hormone
+GHRH	growth hormone releasing hormone
+GI	gastrointestinal
+GLT	glucose loading test
+GSW	gunshot wound
+GU	genitourinary
+HA	headache
+HA	hemolytic anemia
+HAV	hepatitis A virus
+HBV	hepatitis B virus
+Hb	hemoglobin
+HCV	hepatitis C virus
+HDL	high density lipoprotein
+HDV	hepatitis D virus
+HIV	human immunodeficiency virus
+HPA	hypothalamic suppression test
+HR	heart rate
+HTN	hypertension
+IBD	inflammatory bowel disease
+IBS	inflammatory bowel syndrome
+ICP	intracranial pressure
+IDDM	insulin dependent diabetes mellitus
+IPF	idiopathic pulmonary fibrosis
+IUI	intrauterine insemination
+IUP	intrauterine pregnancy
+IVF	in vitro fertilization
+IVIG	intravenous immune globulin
+IVP	intravenous push
+JCV	JC virus
+JRA	juvenile rheumatoid arthritis
+JVD	jugular venous distension
+KS	Kaposi sarcoma
+LAD	leukocyte adhesion deficiency
+LBP	lower back pain
+LBW	low birth weight
+LIH	left inguinal hernia
+LOF	loss of fluid
+MD	muscular dystrophy
+MR	mental retardation
+MS	multiple sclerosis
+NAD	no acute distress
+Nat/O	birth
+NIDDM	non-insulin dependent diabetes mellitus
+NM	neuromuscular
+N/V	nausea vomiting
+NVD	normal vaginal delivery
+OCD	obsessive compulsive disorder
+ON	optic neuritis
+OSA	obstructive sleep apnea
+PD	Parkinson's disease
+PE	pulmonary embolism
+PKD	polycystic kidney disease
+PID	pelvic inflammatory disease
+PIH	pregnancy induced hypertension
+PMS	premenstrual syndrome
+PTSD	post-traumatic stress disorder
+RA	rheumatoid arthritis
+RAD	reactive airway disease
+RDS	respiratory distress syndrome
+REM	rapid eye movements
+RHD	rheumatic heart disease
+RXN	reaction
+SAB	spontaneous abortion
+SBO	small bowel obstruction
+SBS	shaken baby syndrome
+SOB	shortness of breath
+STD	sexually transmitted disease
+TAH	total abdominal hysterectomy
+TB	tuberculosis
+TBI	traumatic brain injury
+TGA	transient global amnesia
+UC	ulcerative colitis
+UO	urine output
+URI	upper respiratory infection
+UTI	urinary tract infection
+VB	vaginal bleeding
+VBAC	vaginal birth after caesarean section
+VF	ventricular fibrillation
+VH	vaginal hysterectomy
+VH	vaginal hallucination
+VIP	voluntary interruption of pregnancy
+ABD	abdomen
+AD	right ear
+AL	left ear
+AU	both ears
+BMD	bone mass density
+BMI	body mass index
+BMR	basal metabolic rate
+CBD	common bile duct
+CBF	cerebral blood flow
+FL	femur length
+FROM	free range of motion
+HC	head circumference
+IBW	ideal body weight
+LLL	left lower lobe
+LLQ	left lower quadrant
+LUL	left upper lobe
+LUQ	left upper quadrant
+LV	left ventricle
+OD	right eye
+OS	left eye
+OU	both eyes
+PNS	peripheral nervous system
+RA	right atrium
+RUL	right upper lobe
+RUQ	right upper quadrant
+RV	right ventricle
+RV	residual volume
+TLC	total lung capacity
+UE	upper extremity
+WT	weight
+ALL	Acute lymphoblastic leukemia
+AMI	Acute myocardial infarction
+B-ALL	B-cell acute lymphoblastic leukemia
+FSH	Follicle stimulating hormone
+HAPE	High altitude pulmonary edema
+HPS	Hantavirus pulmonary syndrome
+IBS	Irritable bowel syndrome
+IDDM	Insulin-dependent diabetes mellitus
+MDS	Myelo dysplastic syndrome
+NBCCS	Nevoid basal cell carcinoma syndrome
+PE	Pulmonary embolism
+SIDS	Sudden infant death syndrome
+TSH	Thyroid stimulating hormone
+a.c.	Before meals
+a/g ratio	Albumin to globulin ratio
+ACL	Anterior cruciate ligament
+Ad lib	At liberty
+AFR	Acute renal failure
+ADHD	Attention deficit hyperactivity disorder
+ADR	Adverse drug reaction
+AIDS	Acquired immune deficiency syndrome
+AKA	Above the knee amputation
+Anuric	Not producing urine
+ANED	Alive no evidence of disease
+ADH	Antidiuretic hormone
+ARDS	Acute respiratory distress syndrome
+ARF	Acute renal failure
+ASCVD	Atherosclerotic cardiovascular disease
+b.i.d.	Twice daily
+bld	Blood
+Bibasilar	At the bases of both lungs
+BKA	Below the knee amputation
+BMP	Basic metabolic panel
+BP	Blood pressure
+BPD	Borderline personality disorder
+BSO	Bilateral salpingo-oophorectomy
+C&S	Culture and sensitivity
+C/O	Complaint of
+cap	Capsule
+Ca	Cancer
+Ca	carcinoma
+CABG	Coronary artery bypass graft
+CBC	Complete blood count
+CC	Chief complaint
+CDE	Complete dental evaluation
+cc	Cubic centimeters
+Chem panel	Chemistry panel
+CPAP	Continuous positive airway pressure
+COPD	Chronic obstructive pulmonary disease
+CT	Chemotherapy
+CVA	Cerebrovascular accident
+D/C	Discontinue
+DC	Discontinue
+DCIS	Ductal Carcinoma In Situ
+DDX	Differential diagnosis
+DJD	Degenerative joint disease
+DM	Diabetes mellitus
+DNC	Dilation and curettage
+D&C	Dilation and curettage
+D and C	Dilation and curettage
+DNR	Do not resuscitate
+DOE	Dyspnea on exertion
+DTR	Deep tendon reflexes
+DVT	Deep venous thrombosis
+ETOH	Alcohol
+ECT	Electroconclusive therapy
+FX	Fracture
+g	gram
+GvHD	Graft vs. host disease
+gtt	Drops
+H&H	Hemoglobin and hematocrit
+H&P	History and physical examination
+h.s.	At bedtime
+H/O or h/o	History of
+HA	Headache
+HRT	Hormone replacement or hormone replacement therapy
+HTN	Hypertension
+I&D	Incision and drainage
+IBD	Inflammatory bowel disease
+ICD	Implantable cardioverter defibrillator
+ICU	Intensive care unit
+IM	Intramuscular
+IMP	Impression
+ITU	Intensive therapy unit
+in vitro	In the laboratory
+in vivo	In the body
+IPF	Idiopathic pulmonary fibrosis
+IU	International units
+JT	Joint
+K	Potassium
+KCL	Potassium chloride
+LCIS	Lobular Carcinoma In Situ
+LBP	Low back pain
+LLQ	Left lower quadrant
+LUQ	Left upper quadrant
+Lytes	Electrolytes
+MCL	Medial collateral ligament
+mg	Milligrams
+M/H	Medical history
+ml	Milliliters
+MVP	Mitral valve prolapse
+N/V	Nausea or vomiting
+Na	Sodium
+NCP	Nursing care plan
+npo	Nothing by mouth
+NSR	Normal sinus rhythm of the heart
+O&P	Ova and parasites
+O.D.	Right eye
+O.S.	Left eye
+O.U.	Both eyes
+ORIF	Open reduction and internal fixation
+P	Pulse
+p¯	After meals
+p.o.	By mouth
+p.r.n.	As needed
+PCL	Posterior cruciate ligament
+PD	Progressive disease
+PERRLA	Pupils equal, round, and reactive to light and accommodation
+PFT	Pulmonary function test
+Plt	Platelets
+PMI	Point of maximum impulse
+PMS	Premenstrual syndrome
+PT	Physical therapy
+PTH	Parathyroid hormone
+PTSD	Post-traumatic stress syndrome
+PUD	Peptic ulcer disease
+q.d.	Each day
+q.i.d.	Four times daily
+q2h	Every 2 hours
+q3h	Every 3 hours
+qAM	Each morning
+qhs	At each bedtime
+qod	Every other day
+qPM	Each evening
+RA	Rheumatoid arthritis
+RDS	Respiratory distress syndrome
+R/O	Rule out
+REB	Rebound
+RLQ	Right lower quadrant
+ROS	Review of systems
+RUQ	Right upper quadrant
+s/p	Status post
+SAD	Season affective disorder
+SOB	Shortness of breath
+SQ	Subcutaneous
+T	Temperature
+T&A	Tonsillectomy and adenoidectomy
+t.i.d.	Three times daily
+tab	Tablet
+TAH	Total abdominal hysterectomy
+THR	Total hip replacement
+TKR	Total knee replacement
+TMJ	Tempomandibular joint
+UA	Urinalysis
+u/a	Urinalysis
+U	Unit
+u**	Unit
+ULN	Upper limits of normal
+URI	Upper respiratory infection
+ut dict	As directed
+UTI	Urinary tract infection
+VSS	Vital signs are stable
+Wt	Weight
+XRT	Radiotherapy
